@@ -1,0 +1,7 @@
+{
+  "name": "TTMM",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
